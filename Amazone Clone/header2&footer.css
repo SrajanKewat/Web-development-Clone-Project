@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.nav2{
+    display: flex;
+    height:40px ;
+    background-color: #232f3e ;
+    color: white;
+    align-items: center;
+    font-size:medium;
+}
+.nav2 ul li{
+    display: inline-block;
+    padding: 10px;
+    margin: 2px;
+}
+
+.last{
+    background-color:#33445a;
+    color: white;
+    height: 7vh;
+    text-align: center;
+    align-content: center;
+}
+.faltu{
+    color: white;
+    background-color: #232f3e;
+    height: 30vh;
+    display: grid;
+    grid-gap: 150px;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+    padding: 50px 0px 0px 0px;
+}
+#line{
+    height: 0.119px;
+}
+.final{
+    height: 10vh;
+    background-color: #131a21;
+    text-align: center;
+    align-content: center;
+
+}
+
+
