@@ -1,2 +1,2 @@
 # Web-development-Clone-Project
-Clones of Websites
+Clone of Amazone and Tic Tac-Toe game with the help of js , css, html.
